@@ -31,7 +31,7 @@ public class Vista extends javax.swing.JFrame {
         decrementarBtn = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Contador");
+        setTitle("Contador de clicks");
 
         contadorLb.setFont(new java.awt.Font("Segoe UI", 0, 58)); // NOI18N
         contadorLb.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
